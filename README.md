@@ -106,7 +106,7 @@ Regarding the license, all players have access to the command ``/NBGamesLicence`
 
 ## Example of usage
 ![image](https://user-images.githubusercontent.com/30299182/116129179-1a503200-a6ca-11eb-85ae-61b7a4a9f06c.png)
-The display changes if the player does not have enough to buy the slot.<br>
+<br>The display changes if the player does not have enough to buy the slot.<br>
 ![image](https://user-images.githubusercontent.com/30299182/116129307-3fdd3b80-a6ca-11eb-93ea-d51b62cee6c1.png)
 <br>
 The points of the players are displayed in the title of the menu.<br>
