@@ -102,25 +102,7 @@ The display depends on your previous settings. Player need only the default perm
   
 ### /NBGamesLicence <Action>
 Regarding the license, all players have access to the command ``/NBGamesLicence`` which displays the information about the current license. Admin will be able to configure this using the permission **"nbgames.licence"** (***I advise you to give this permission only to the server owner and to prefer to remove these permissions once configured.***)
-
-#### Buy a single license / network license
-For purchases please go directly to my discord, where the prices are posted. To join, simply go here: https://discord.gg/w3S9ZQf8nR
-Please note that single licenses will only work for a single server. For network licenses, the IP addresses of the authorized servers on the network must be sent to the developer to be linked to your license. 
-
-#### Activate my license
-*This process is the same for single licenses as for network licenses.*
-The information used here is fictituous and will not work, it is used as an example.
-For our example we will use this information:<br>
-**Server/Network Name**: ``MyAmazingServer``<br>
-**Server/Network Key**: ``AmazServQXCegs1X16``<br>
-
-Then use these commands in order <br>
-``/NBGamesLicence ServerName MyAmazingServer``<br>
-``/NBGamesLicence ServerKey AmazServQXCegs1X16``<br>
-``/NBGamesLicence Connect``<br>
-
-A success message should then be displayed. If not, check your information and contact the developer if the license is still not activated. <br>
-Once this is complete, use the command "**/NBGamesLicence Ip**" and send the address to the developer to complete the process.
+	<a href="https://github.com/NicolasBrg/NBGames/wiki/Activate-my-license">Click here for activation instructions.</a>
 
 ## Example of usage
 ![image](https://user-images.githubusercontent.com/30299182/116129179-1a503200-a6ca-11eb-85ae-61b7a4a9f06c.png)
