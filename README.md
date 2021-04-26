@@ -128,5 +128,5 @@ The display changes if the player does not have enough to buy the slot.<br>
 ![image](https://user-images.githubusercontent.com/30299182/116129307-3fdd3b80-a6ca-11eb-93ea-d51b62cee6c1.png)
 <br>
 The points of the players are displayed in the title of the menu.<br>
-When you defeat / catch a pokemon who are in points condition setup previously, player wins points, and a message is sent below inventory action bar.
+When you defeat / catch a pokemon who are in points condition setup previously, player wins points, and a message is sent below inventory action bar.<br>
 ![image](https://user-images.githubusercontent.com/30299182/116129681-abbfa400-a6ca-11eb-840d-f0bea371bcf4.png)
