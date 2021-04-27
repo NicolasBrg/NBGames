@@ -4,6 +4,10 @@
 # General information
 Create a grid system allowing the player to earn points with missions that you set up. These points can be used to buy slot on the grid and collect the content. All items are configurable and the generation is automatic. The player can only buy adjacent slot to his starting point (represented by his custom head) or adjancent slot of already bought slot (no diagonal). Once arrived at the destination, a new card is generated (the previous one is then lost) and the player can continue his purchases within the limits of the number of available cards (configurable). **NBGames** uses the **UUID** of the players, so the progress is not lost in case of change of nickname. ***The plugin allows you to increase the playing time considerably, it is up to you to adjust the rewards to your player base.***
 
+# Demo Video
+*Click to play*<br>
+[![Demo video](https://img.youtube.com/vi/3ICkdSUV-UU/0.jpg)](https://www.youtube.com/watch?v=3ICkdSUV-UU)
+
 
 # Configuration
 The configuration is structured in the folder "**NBGames**" which will be created in your config folder. 
