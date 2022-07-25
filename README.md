@@ -1,4 +1,4 @@
-# NBGames - Version 4.21.1
+# NBGames - Version 2022.07.a
 **Pure forge** catching &amp; battling mini game for players to spend time on!
 
 # General information
