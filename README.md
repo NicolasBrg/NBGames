@@ -104,10 +104,6 @@ The display depends on your previous settings. Player need only the default perm
   Manage player points. <br>
   Permission: ``nbgames.admin``<br>
   
-### /NBGamesLicence <Action>
-Regarding the license, all players have access to the command ``/NBGamesLicence`` which displays the information about the current license. Admin will be able to configure this using the permission **"nbgames.licence"** (***I advise you to give this permission only to the server owner and to prefer to remove these permissions once configured.***)
-	<a href="https://github.com/NicolasBrg/NBGames/wiki/Activate-my-license">Click here for activation instructions.</a>
-
 ## Example of usage
 ![image](https://user-images.githubusercontent.com/30299182/116129179-1a503200-a6ca-11eb-85ae-61b7a4a9f06c.png)
 <br>The display changes if the player does not have enough to buy the slot.<br>
